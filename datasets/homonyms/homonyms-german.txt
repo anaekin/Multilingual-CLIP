@@ -1,0 +1,20 @@
+Bank	Sitzgelegenheit	Finanzinstitut	Park	Rente
+Laden	Geschäft	Aufladen	Boutique	Akku
+Tau	Schweres Seil	Tau	Dunst	Seil
+Bauer	Landwirt	Käfig	Feld	Gitter
+Mutter	Elternteil	Schraubenteil	Vater	Schraube
+Schloss	Schließvorrichtung	Burg	Schlüssel	Festung
+Leiter	Kletterhilfe	Führungskraft	Treppe	Chef
+Ball	Tanzveranstaltung	Rundspielzeug	Tanz	Kugel
+Blatt	Pflanzenteil	Seite	Baum	Papier
+Hahn	Huhn	Wasserhahn	Henne	Wasser
+Kiefer	Baumteil	Gesichtsteil	Wald	Mund
+Ton	Keramik	Klang	Lehm	Laut
+Strauß	Blumenbund	Vogel	Rosen	Emu
+Deckel	Topfabdeckung	Buchumschlag	Kochtopf	Einband
+Wasserkocher	Teekessel	Elektrischer Wasserkocher	Tee	Gerät
+Kurier	Bote	Zeitung	Lieferant	Blatt
+Buch	Literatur	Laubbaum	Lesen	Baum
+Mangel	Fehlende Menge	Bügelmaschine	Defizit	Bügeln
+Schimmel	Pilz	Weißes Pferd	Feuchtigkeit	Pferd
+Kiefer	Nadelbaum	Teil des Gesichts	Wald	 Mund

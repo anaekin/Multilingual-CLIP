@@ -1,0 +1,20 @@
+Banca	istituzione finanziaria	panca	cassa	sportello
+Luce	luminosità	illuminazione	sole	lanterna
+Castello	fortezza	serratura	torre	chiave
+Rosa	fiore	colore	giglio	rosso
+Filo	filamento	corda	lana	spago
+Rete	dispositivo di cattura	interconnessione	arpa	internet
+Vela	attrezzatura per navigare	tenda	barca	tessuto
+Bottiglia	contenitore per liquidi	consegna	bicchiere	carico
+Coda	parte posteriore di un animale	fila	cavallo	coda di attesa
+Porta	ingresso	verbo portare	uscita	trasporta
+Mela	frutto	una cosa cara	pera	costosa
+Raggio	unità di misura	parte della ruota	metro	spoke
+Salto	azione di saltare	variabile matematica	salto in alto	incremento
+Cavo	filo grosso	incavato	corda	scavato
+Dado	frutto secco	strumento di gioco	noce	gioco
+Nave	imbarcazione	astronave	barca	spaziale
+Piano	superficie piatta	progetto	tavolo	progetto
+Filo	filo di seta	conduttore	bozzolo	cavo
+Vento	aria in movimento	corda	brezza	fune
+Ponte	struttura di collegamento	festività	viadotto	celebrazione

@@ -125,3 +125,5 @@ dmypy.json
 # /tools
 /data
 /dumped
+
+datasets/*.zip
